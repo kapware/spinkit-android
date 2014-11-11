@@ -2,8 +2,8 @@
 <resources>
 	<declare-styleable name="SpinKitView">
         <attr name="spinSpeed" format="dimension" />
-        <attr name="delayMillis" format="integer" />
-        <attr name="circleColor" format="color" />
+        <attr name="drawDelay" format="integer" />
+        <attr name="spinColor" format="color" />
         <attr name="spinType" format="enum">
             <enum name="wanderingCubes" value="0"/>
             <enum name="wanderingCircles" value="1"/>

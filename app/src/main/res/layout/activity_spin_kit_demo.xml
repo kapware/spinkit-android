@@ -14,7 +14,7 @@
         android:id="@+id/spinkit1"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        app:circleColor="#2E9121"
+        app:spinColor="#2E9121"
         app:spinSpeed="4dp"
         app:spinType="wanderingCircles"
         />
@@ -23,7 +23,7 @@
         android:id="@+id/spinkit2"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        app:circleColor="#ff0000"
+        app:spinColor="#ff0000"
         app:spinSpeed="4dp"
         app:spinType="wanderingCubes"
         />
