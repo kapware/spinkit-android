@@ -26,6 +26,7 @@
         app:spinColor="#ff0000"
         app:spinSpeed="4dp"
         app:spinType="wanderingCubes"
+        android:padding="40dp"
         />
 
     <SeekBar
